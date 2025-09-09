@@ -11,3 +11,6 @@ This repo demonstrates two elegant facts about maximizing a soccer shot angle an
   Verifies numerically that there exists a tilt direction of the field for which pucks sliding to each post arrive simultaneously.
 
 
+
+
+![](https://github.com/microprediction/shootingangle/blob/main/shot_angle_tangent_circle.gif)
