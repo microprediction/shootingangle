@@ -4,14 +4,12 @@ This repo demonstrates two elegant facts about maximizing a soccer shot angle an
 
 ## Demos
 
-- **Demo 1:** [Tangent circle animation](./demo1_tangent_circle_animation.py)  
+- **Demo 1:** [Tangent circle animation](https://github.com/microprediction/shootingangle/blob/main/shot_angle_tangent_circle.gif)  
   Shows that the best shooting point along a vertical walk line is the tangency point of the unique circle through the posts tangent to that line.
 
-- **Demo 2:** [Equal-time tilt (2D math check)](./demo2_equal_time_tilt.py)  
+- **Demo 2:** [Equal-time tilt (2D math check)](https://github.com/microprediction/shootingangle/blob/main/equal_time_slide_3d.gif)  
   Verifies numerically that there exists a tilt direction of the field for which pucks sliding to each post arrive simultaneously.
 
-- **Demo 3:** [Equal-time slide in 3D](./demo3_equal_time_slide_3d.py)  
-  Visualizes the tilted field in 3D with two pucks sliding down straight rails to the posts, hitting at the same time.
 
 Each demo saves a `.gif` and `.png` snapshot in the repo folder.
 
