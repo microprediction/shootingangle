@@ -15,3 +15,4 @@ This repo demonstrates two elegant facts about maximizing a soccer shot angle an
 
 
 ![Equal-time tilt (2D math check)](https://github.com/microprediction/shootingangle/blob/main/equal_time_slide_3d.gif)
+
